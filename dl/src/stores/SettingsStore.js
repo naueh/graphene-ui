@@ -27,7 +27,8 @@ class SettingsStore {
                 "cn",
                 "fr",
                 "ko",
-                "de"
+                "de",
+                "tr"
             ],
             inverseMarket: [
                 "CORE/USD",
